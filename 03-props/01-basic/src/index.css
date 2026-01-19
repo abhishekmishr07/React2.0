@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #000;
+}
+h1,p {
+  color: #e22b2b;
+  text-align: center;
+  margin-top: 20px;
+}
+#hi,#hello{
+  color: #22e22b; 
+  text-align: center; 
+  margin-top: 20px;
+  font-size: 50px;
+}
